@@ -10,10 +10,10 @@
 MIS REDES SOCIALES:
 <p align="center">
   
-  <a href="[https://www.linkedin.com/in/👽](https://www.linkedin.com/in/fabricio-agustin-gibaut-carrizo-82950a301/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/👽]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.instagram.com/👽/" target="_blank">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/agustin._024/?hl=en)👽/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="https://twitter.com/👽" target="_blank">
