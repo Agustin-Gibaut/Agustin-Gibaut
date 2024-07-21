@@ -32,21 +32,15 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" title="HTML"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" title="CSS">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" title="Javascript">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" height="48" title="Git"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" height="48" title="Github">  
+  
+| Habilidad       | Icono                                                                 |
+|-----------------|----------------------------------------------------------------------|
+| Python          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> |
+| HTML            | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" title="HTML"> |
+| CSS             | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" title="CSS"> |
+| JavaScript      | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" title="Javascript"> |
+| Git             | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" height="48" title="Git"> |
+| GitHub          | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" height="48" title="Github"> |
+
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" alt="Futuristic GIF" style="width: 100px; height: 100px; animation: spin 2s linear infinite;">
-</p>
-
-<style>
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
