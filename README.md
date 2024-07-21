@@ -1,19 +1,22 @@
-## BIENVENIDO 👋
-<p align="center">
-😎agustinG-DEV/agustin Gibaut😎
+## ¡BIENVENIDO A MI GITHUB! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=gracias;+por;visitar+el+perfil!" alt="Typing SVG">
+  😎 agustinG-DEV / agustin Gibaut 😎
 </p>
 
 <p align="center">
-MIS REDES SOCIALES:
+  <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=¡Gracias%21+por+visitar+mi+perfil%21" alt="Typing SVG">
+</p>
+
 <p align="center">
-  
+  MIS REDES SOCIALES:
+</p>
+
+<p align="center">
   <a href="[https://www.linkedin.com/in/👽]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="[https://www.instagram.com/](https://www.instagram.com/agustin._024/?hl=en)👽/" target="_blank">
+  <a href="[https://www.instagram.com/agustin._024/?hl=en](https://www.instagram.com/agustin._024/?hl=en)" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="https://twitter.com/👽" target="_blank">
@@ -25,7 +28,9 @@ MIS REDES SOCIALES:
 </p>
 
 <p align="center">
-SKILLS
+  HABILIDADES
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" title="HTML"> 
@@ -34,3 +39,14 @@ SKILLS
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" height="48" title="Git"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" height="48" title="Github">  
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" alt="Futuristic GIF" style="width: 100px; height: 100px; animation: spin 2s linear infinite;">
+</p>
+
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
