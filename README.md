@@ -32,14 +32,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" title="HTML"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" title="CSS">   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" title="Javascript">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" height="48" title="Git"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" height="48" title="Github">  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustinG-DEV&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
