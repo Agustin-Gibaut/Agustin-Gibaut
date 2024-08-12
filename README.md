@@ -1,4 +1,4 @@
-<h1 align="center"> ##¡BIENVENIDO A MI GITHUB! 👋 </h1>
+<h1 align="center"> ¡BIENVENIDO A MI GITHUB! 👋 </h1>
 
 <p align="center">
   <span style="color:#00FFFF;">😎 agustinG-DEV / agustin Gibaut 😎</span>
@@ -10,6 +10,7 @@
 
 
 <p align="center">
+  habilidades
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" title="HTML"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" title="CSS">   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" title="Javascript">
