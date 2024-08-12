@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=¡Gracias%21+por+visitar+mi+perfil%21" alt="Typing SVG">
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Agustin-Gibaut&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Agustin-Gibaut&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Gibaut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
