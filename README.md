@@ -19,17 +19,3 @@
 <p align="center">
   <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> 🎓 Tengo 19 años y estudio Ingeniería en Computación. <br> 💻 Me apasiona el desarrollo Front-End.</span>
 </p>
-
-<h2 align="center">Sobre Mí</h2>
-
-<p align="center" style="font-size: 16px; color: #FFFFFF;">
-  <strong>🗺️ Ubicación:</strong> Córdoba, Argentina <br>
-  <strong>💻 Tecnologías:</strong> Fullstack Dev <br>
-  <strong>🧩 Front-End:</strong> <br>
-  - JavaScript: React <br>
-  <strong>⚙️ Back-End:</strong> <br>
-  - JavaScript: Express, Node <br>
-  <strong>📊 Bases de Datos:</strong> MySQL, Sequelize <br>
-  <strong>❤️ Pasiones:</strong> Performance web, Desarrollo web <br>
-  <strong>🌐 Idiomas:</strong> Español (es_AR), Inglés (en_US) (en progreso) 
-</p>
