@@ -33,26 +33,3 @@
   <strong>❤️ Pasiones:</strong> Performance web, Desarrollo web <br>
   <strong>🌐 Idiomas:</strong> Español (es_AR), Inglés (en_US) (en progreso) 
 </p>
-
-<style>
-  h1 {
-    color: #00FFFF;
-  }
-
-  p {
-    font-family: Arial, sans-serif;
-  }
-
-  span {
-    color: #FFFFFF;
-  }
-
-  h2 {
-    color: #02D9F7FF;
-  }
-
-  .info {
-    font-size: 16px;
-    color: #FFFFFF;
-  }
-</style>
