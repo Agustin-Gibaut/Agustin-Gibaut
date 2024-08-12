@@ -3,6 +3,9 @@
 <p align="center">
   <span style="color:#00FFFF;"> agustin Gibaut </span>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/animated-header.svg" alt="Animated Banner">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=¡Gracias%21+por+visitar+mi+perfil%21" alt="Typing SVG">
