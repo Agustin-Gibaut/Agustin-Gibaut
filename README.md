@@ -25,15 +25,6 @@
   <img src="https://komarev.com/ghpvc/?username=agustinG-DEV&color=blue&style=flat" alt="Visitors">
 </p>
 
-<h2 align="center">🚀 Skills & Tools</h2>
-
-<h2 align="center">📂 Proyectos Destacados</h2>
-
-<p align="center">
-  - [Proyecto 1](enlace-al-proyecto) - Descripción breve del proyecto.
-  - [Proyecto 2](enlace-al-proyecto) - Descripción breve del proyecto.
-  - [Mi Portfolio](enlace-al-portfolio) - Mi portafolio con más detalles.
-</p>
 
 <p align="center">
   <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> 🎓 Tengo 19 años y estudio Ingeniería en Computación. <br> 💻 Me apasiona el desarrollo Front-End.</span>
