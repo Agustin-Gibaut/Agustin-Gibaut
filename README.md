@@ -1,13 +1,9 @@
-<h1 align="center"> 
-  <img src="URL_DEL_GIF" alt="Agustín Gibaut" width="200" height="200"> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=¡Hola%2C+soy+Agust%C3%ADN+Gibaut%21" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <span style="color:#00FFFF;"> agustin Gibaut </span>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=¡Gracias%21+por+visitar+mi+perfil%21" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=500&color=02D9F7&center=true&vCenter=true&width=600&lines=¡Gracias+por+visitar+mi+perfil%21" alt="Typing SVG">
 </p>
 
 <p align="center">
