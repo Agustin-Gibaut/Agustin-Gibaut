@@ -1,10 +1,10 @@
-<h1 align="center"> ¡BIENVENIDO A MI GITHUB! 👋 </h1>
+<h1 align="center"> 
+  <img src="URL_DEL_GIF" alt="Agustín Gibaut" width="200" height="200"> 
+</h1>
 
 <p align="center">
   <span style="color:#00FFFF;"> agustin Gibaut </span>
 </p>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=¡Gracias%21+por+visitar+mi+perfil%21" alt="Typing SVG">
@@ -18,12 +18,11 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" height="48" title="Github">  
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agustinG-DEV&color=blue&style=flat" alt="Visitors">
 </p>
 
-
 <p align="center">
   <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> 🎓 Tengo 19 años y estudio Ingeniería en Computación. <br> 💻 Me apasiona el desarrollo Front-End.</span>
 </p>
+
