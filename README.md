@@ -36,11 +36,10 @@
   <img src="https://komarev.com/ghpvc/?username=agustinG-DEV&color=blue&style=flat" alt="Visitors">
 </p>
 
-###
 
 <h2 align="center">SOBRE MI:</h2>
-###
+
 
 <p align="center">
-  <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> 🎓 Tengo 19 años y estudio Ingeniería en Computación. <br> 💻 Me apasiona muchísimo el desarrollo Front-End y me encanta trabajar en la creación de interfaces interactivas y atractivas.</span>
+  <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> Tengo 19 años  <br> 💻 Me apasiona muchísimo el desarrollo Front-End y me encanta trabajar en la creación de interfaces interactivas y atractivas.</span>
 </p>
