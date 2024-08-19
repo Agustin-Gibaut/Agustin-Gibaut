@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=500&color=02D9F7&center=true&vCenter=true&width=600&lines=¡Gracias+por+visitar+mi+perfil%21" alt="Typing SVG">
 </p>
 
+<h2 align="center">SOBRE MI:</h2>
+
+
+<p align="center">
+  <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> Tengo 19 años  <br> 💻 Me apasiona muchísimo el desarrollo Front-End y me encanta trabajar en la creación de interfaces interactivas y atractivas.</span>
+</p>
+
 ###
 
 <h2 align="center">ME PUEDES ENCONTRAR EN:</h2>
@@ -37,9 +44,3 @@
 </p>
 
 
-<h2 align="center">SOBRE MI:</h2>
-
-
-<p align="center">
-  <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> Tengo 19 años  <br> 💻 Me apasiona muchísimo el desarrollo Front-End y me encanta trabajar en la creación de interfaces interactivas y atractivas.</span>
-</p>
