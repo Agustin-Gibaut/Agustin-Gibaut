@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=500&color=02D9F7&center=true&vCenter=true&width=600&lines=¡Gracias+por+visitar+mi+perfil%21" alt="Typing SVG">
 </p>
 
-<h2 align="center">SOBRE MI:</h2>
+<h2 align="center">about me:</h2>
 
 <p align="center">
   <span style="font-size: 18px; color: #FFFFFF;">Hello 👋 My name is Agustin Gibaut I'm nineteen years old.
