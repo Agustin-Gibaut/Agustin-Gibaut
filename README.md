@@ -8,9 +8,16 @@
 
 <h2 align="center">SOBRE MI:</h2>
 
+<p align="center">
+  <span style="font-size: 18px; color: #FFFFFF;">Hello 👋 My name is Agustin Gibaut I'm nineteen years old.
+I AM from is Córdoba city Argentina🇦🇷.
+i like software development and i student in ispc
+always i like be aware of 
+tecnology and practice them.</span>
+</p>
 
 <p align="center">
-  <span style="font-size: 18px; color: #FFFFFF;">📍 Soy de Córdoba, Argentina (CBA). <br> Tengo 19 años  <br> 💻 Me apasiona muchísimo el desarrollo Front-End y me encanta trabajar en la creación de interfaces interactivas y atractivas.</span>
+  <img src="https://media.giphy.com/media/2Y6w8TfnT7Z8k/giphy.gif" width="300" alt="Itachi Uchiha">
 </p>
 
 ###
@@ -42,5 +49,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agustinG-DEV&color=blue&style=flat" alt="Visitors">
 </p>
-
-
