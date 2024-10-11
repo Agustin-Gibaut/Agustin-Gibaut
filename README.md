@@ -17,7 +17,7 @@ tecnology and practice them.</span>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2Y6w8TfnT7Z8k/giphy.gif" width="300" alt="Itachi Uchiha">
+  <img src="https://media.giphy.com/media/3o6MbkJ3YyPzZKQ5sA/giphy.gif" width="300" alt="Itachi Uchiha Sharingan">
 </p>
 
 ###
